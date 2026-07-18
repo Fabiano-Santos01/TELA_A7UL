@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+child_*.bin
+.vscode/
+saves/slot_*.json
+saves/audio_config.json
+saves/.bsod_triggered
+saves/.ng_plus_unlocked
+saves/.bsod_retorno
+*.egg-info/
+.env
