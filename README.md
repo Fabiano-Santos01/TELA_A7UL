@@ -3,6 +3,14 @@
 
 # Desenvolver um RPG de terminal utilizando Python para praticar Programação Orientada a Objetos, modularização, persistência de dados, lógica de programação e organização de projetos, simulando um projeto real de desenvolvimento de software.
 
+# Recrutadores (RH) podem baixar o arquivo ( main.exe ) e jogar tanto o modo Lite = Curto/Recrutador ( Demo ) ou a versão completa Full = Longo/Recrutador
+# O arquivo main.exe não está acompanhado de sons, isso irá depender se você possui as bibliotecas pygame e mais algumas nativas no python instaladas. Boa diversão ;
+
+# Observação - Se por algum motivo você não conseguir executar o sistema de (Sons) tente usar este comando no seu terminal
+# pip install -r requirements.txt
+# Caso o áudio ainda não funcione corretamente: py -3.10 -m pip install --upgrade pygame
+# E então aperte "Play/F5" no seu Vscode ou direto no terminal para rodar o game: py -3.10 main.py
+
 
 
 ![License](https://img.shields.io/badge/license-MIT-yellow)
