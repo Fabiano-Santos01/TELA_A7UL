@@ -6,6 +6,8 @@
 # Recrutadores (RH) podem baixar o arquivo ( main.exe ) e jogar tanto o modo Lite = Curto/Recrutador ( Demo ) ou a versão completa Full = Longo/Recrutador
 # O arquivo main.exe não está acompanhado de sons, isso irá depender se você possui as bibliotecas pygame e mais algumas nativas no python instaladas. Boa diversão ;
 
+# Como Baixar o Arquivo Executável no GitHub: 1° Abra a pasta Dist |  2° Clique no Arquivo Executável | 3° No Canto Superior Direito ao Lado do Botão ( RAW ) Há um botão de Download, Basta Baixar e Bom Jogo.
+
 # Observação - Se por algum motivo você não conseguir executar o sistema de (Sons) tente usar este comando no seu terminal
 # pip install -r requirements.txt
 # Caso o áudio ainda não funcione corretamente: py -3.10 -m pip install --upgrade pygame
